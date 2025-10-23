@@ -11,7 +11,8 @@
 💻 About Me
 </div>
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
-```bash
+```
+bash
 yash@developer:~$ whoami
 Yash Bhadange | Android Developer + AI Enthusiast
 yash@developer:~$ ls skills/
@@ -50,7 +51,7 @@ yash@developer:~$ _
 <img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
-
+```
 
 ---
 
