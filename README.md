@@ -9,11 +9,10 @@
 
 <br>
 
-<div align="center">
-
-## 💭 About Me 
+<h1 align="center">
+💭 About Me 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding Cat"/>
-</div>
+</h1>
 
 <div style="overflow-x: auto;">
 
