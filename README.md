@@ -132,8 +132,8 @@ public static void main(String[] args) {
 ### 💻 **Language Distribution & Productivity**
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook" height="200" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=8&card_width=400&hide=Jupyter%20Notebook">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=8&card_width=400&hide=Jupyter%20Notebook" height="180" alt="Top Languages" />
 </picture>
 </div>
 
@@ -146,11 +146,8 @@ public static void main(String[] args) {
 
 <div align="center">
 <p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/yash-bhadange-41b713308" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/YashBhadange2006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
