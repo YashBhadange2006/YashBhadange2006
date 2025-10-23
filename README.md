@@ -29,7 +29,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,git,github,linux" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,git,github,linux,javascript,html,css,bootstrap,mysql,sqlte,git,figma,visualstudio" height="48" />
 </p>
 
 <p align="center">
