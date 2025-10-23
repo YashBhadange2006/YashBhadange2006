@@ -65,14 +65,14 @@ public static void main(String[] args) {
 
 <div align="center">
 
-### **Languages & Frameworks**
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="40"/>
 </p>
 
 ### **Mobile Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio,firebase" height="40"/>
 </p>
 
 ### **Development Tools**
@@ -146,7 +146,7 @@ public static void main(String[] args) {
 
 <div align="center">
 <p>
-  <a href="www.linkedin.com/in/yash-bhadange-41b713308" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-bhadange-41b713308" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YashBhadange2006" target="_blank">
