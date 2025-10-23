@@ -7,18 +7,33 @@
 
 ---
 
-## 📌 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-</p>
-
-- 🤝 Looking to collaborate on Android + AI-based real-world apps  
-- 🧠 Exploring **Geolocation + Reverse Image Search** apps  
-- 🌱 Learning **Kotlin | Jetpack Compose | Room DB | Spring Boot | Python AI**  
-- ✨ Focused on **clean UI + smooth UX**  
-- 🎯 Building apps that **students and the public can actually use**  
-- ❤️ Turning ideas into working apps & solving real problems  
+<br>
+<div align="center">
+About Me
+</div>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+What I'm Building
+I'm focused on creating Android applications that solve real problems—not just portfolio pieces. Currently working on geolocation and reverse image search tools that bridge the gap between mobile development and AI capabilities.
+My approach is simple: if students and everyday users can't figure it out in seconds, it's not done yet. Clean interfaces aren't just aesthetic choices—they're accessibility.
+What Drives Me
+I believe the best apps are invisible. Users shouldn't think about the technology—they should just get what they need and move on with their day. That's what I'm chasing.
+</td>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%">
+Currently Exploring
+Mobile: Kotlin, Jetpack Compose, Room DB
+Backend: Spring Boot
+AI/ML: Python integrations for mobile
+OSINT: Reverse image search, geolocation APIs
+Open To
+Collaborating on Android projects that combine mobile dev with AI—especially tools focused on information gathering, search optimization, or location-based services.
+If you're working on something that makes people's lives genuinely easier, let's talk.
+</td>
+</tr>
+</table>
+<br>
 
 ---
 
