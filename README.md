@@ -14,7 +14,7 @@
 </h1>
 
 <div style="overflow-x: auto;">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Coding Cat"/>
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Coding Cat"/>
 
 ```Java
 private final String name = "Yash Bhadange";
