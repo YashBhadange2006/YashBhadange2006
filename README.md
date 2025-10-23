@@ -7,14 +7,16 @@
 
 ---
 
-<br>
+<div align="center">
 
-<h1 align="center">
-💭 About Me 
-</h1>
+## 💻 About Me
 
-<div style="overflow-x: auto;">
-<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Coding Cat"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Cat"/>
+
+</div>
+
+
+
 
 ```Java
 private final String name = "Yash Bhadange";
@@ -58,8 +60,6 @@ public static void main(String[] args) {
     System.out.println("👋 Ready to build something awesome!");
 }
 ```
-
-</div>
 ---
 
 ## 🛠️ Tech Stack & Tools
