@@ -48,6 +48,7 @@
 
 ## 📊 GitHub Analytics
 
+<div align="center">
 <!-- Animated Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Performance+Metrics+%F0%9F%9A%80;Code+Statistics+%F0%9F%93%88;Contribution+Analytics+%F0%9F%94%A5" alt="Typing SVG" />
 
@@ -88,7 +89,7 @@
 <div align="center">
 
 ### 💻 **Language Distribution & Productivity**
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook" height="200" alt="Top Languages" />
@@ -102,6 +103,7 @@
 
 ## 🤝 Connect With Me
 
+<div align="center">
 <p>
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -121,6 +123,8 @@
 ---
 
 ## 💬 Quote of the Day
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20hungry,%20stay%20foolish&author=Steve%20Jobs" alt="Quote"/>
 
