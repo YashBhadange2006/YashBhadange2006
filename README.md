@@ -24,6 +24,8 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 ### **Languages & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,html,css" height="40"/>
