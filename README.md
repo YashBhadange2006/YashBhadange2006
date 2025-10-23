@@ -11,11 +11,10 @@
 
 <div align="center">
 
-## 💭 About Me
-
+## 💭 About Me 
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding Cat"/>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
 <div style="overflow-x: auto;">
 
 ```Java
