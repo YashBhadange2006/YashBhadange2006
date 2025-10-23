@@ -26,63 +26,39 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech I Use
 
-### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="48" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,git,github,linux,js,html,css,bootstrap,mysql,figma,vscode" height="35"/>
 </p>
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" height="48" />
-</p>
-
-### 🎨 Frontend & UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="48" />
-</p>
-
-### 🗄 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" height="48" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="48" />
-</p>
 
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>📈 GitHub Stats</summary>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=radical&radius=10" height="280" />
-</p>
+</details>
+
 
 ---
 
-## 🔗 Connect With Me
+
+## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_HERE">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  <a href="YOUR LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://skillicons.dev/icons?i=web" height="48"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+  <a href="mailto:YOUR EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
   </a>
 </p>
 
