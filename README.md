@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
 <div style="overflow-x: auto;">
 
 ```Java
