@@ -11,10 +11,10 @@
 
 <h1 align="center">
 💭 About Me 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Coding Cat"/>
 </h1>
 
 <div style="overflow-x: auto;">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Coding Cat"/>
 
 ```Java
 private final String name = "Yash Bhadange";
