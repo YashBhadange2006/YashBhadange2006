@@ -9,31 +9,65 @@
 
 <br>
 <div align="center">
-About Me
+💭 About Me
 </div>
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-What I'm Building
-I'm focused on creating Android applications that solve real problems—not just portfolio pieces. Currently working on geolocation and reverse image search tools that bridge the gap between mobile development and AI capabilities.
-My approach is simple: if students and everyday users can't figure it out in seconds, it's not done yet. Clean interfaces aren't just aesthetic choices—they're accessibility.
-What Drives Me
-I believe the best apps are invisible. Users shouldn't think about the technology—they should just get what they need and move on with their day. That's what I'm chasing.
-</td>
-<td width="50%" valign="top">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%">
-Currently Exploring
-Mobile: Kotlin, Jetpack Compose, Room DB
-Backend: Spring Boot
-AI/ML: Python integrations for mobile
-OSINT: Reverse image search, geolocation APIs
-Open To
-Collaborating on Android projects that combine mobile dev with AI—especially tools focused on information gathering, search optimization, or location-based services.
-If you're working on something that makes people's lives genuinely easier, let's talk.
-</td>
-</tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Yash Bhadange";
+    this.focus = "Android + AI";
+    this.philosophy = "The best apps are invisible";
+  }
+getCurrentProjects() {
+return [
+"🗺️ Geolocation tools that actually work",
+"🔍 Reverse image search for mobile",
+"🤖 Integrating AI into everyday Android apps"
+];
+}
+getApproach() {
+return "If users need a manual, I haven't finished building it yet.";
+}
+isOpenToCollaboration() {
+return this.project.solves === "real problems"
+&& this.project.users === "actual humans";
+}
+}
+
+<br clear="right"/>
+
+<div align="center">
+
+### 🎯 What I'm Actually Learning
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Room%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building tools for OSINT, mobile search, and location-based services.**  
+**Not interested in building features—interested in solving problems.**
+
+*Let's create something that makes people's day easier* 👇
+
+</div>
+
 <br>
+
+---
+
+<br>
+
+<div align="center">
+
 
 ---
 
