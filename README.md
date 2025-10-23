@@ -36,16 +36,16 @@
 
 ---
 
-<details>
-<summary>📈 GitHub Stats</summary>
-<br>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=radical&hide_border=true" width="49%" />
 </p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=radical&radius=10" height="280" />
+</p>
 
 
 ---
