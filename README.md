@@ -73,14 +73,6 @@ class Developer {
 ---
 
 <br>
-
----
-
-<br>
-
-<div align="center">
-
-
 ---
 
 ## 🛠️ Tech Stack & Tools
