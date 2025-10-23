@@ -1,10 +1,26 @@
-<br>
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Yash Bhadange</h1>
+<h3 align="center">Software Engineer | Android Developer | AI & OSINT Enthusiast 🚀</h3>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 ---
 
-<br>
+## 📌 About Me
 
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</p>
+
+- 🤝 Looking to collaborate on Android + AI-based real-world apps  
+- 🧠 Exploring **Geolocation + Reverse Image Search** apps  
+- 🌱 Learning **Kotlin | Jetpack Compose | Room DB | Spring Boot | Python AI**  
+- ✨ Focused on **clean UI + smooth UX**  
+- 🎯 Building apps that **students and the public can actually use**  
+- ❤️ Turning ideas into working apps & solving real problems  
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -27,18 +43,8 @@
 
 <br>
 
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
 
 ---
-
-<br>
-
-<div align="center">
 
 ## 📊 GitHub Analytics
 
@@ -96,37 +102,8 @@
 
 <br>
 
-<div align="center">
-
-### 🏆 **GitHub Trophies**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YashBhadange2006&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashBhadange2006&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📊 **Detailed Profile Metrics**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashBhadange2006&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashBhadange2006&theme=tokyonight" width="98%" alt="Profile Details" />
-</picture>
-
-</div>
-
-<br>
-
 ---
 
-<br>
-
-<div align="center">
 
 ## 🤝 Connect With Me
 
@@ -140,9 +117,6 @@
   <a href="https://github.com/YashBhadange2006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 </div>
@@ -150,10 +124,6 @@
 <br>
 
 ---
-
-<br>
-
-<div align="center">
 
 ## 💬 Quote of the Day
 
@@ -165,28 +135,13 @@
 
 <br>
 
-<!-- Pacman Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashBhadange2006/YashBhadange2006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashBhadange2006/YashBhadange2006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YashBhadange2006/YashBhadange2006/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 📈 **Profile Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YashBhadange2006&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&layout=compact" alt="WakaTime Stats" />
-
-</div>
-
-<br>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+</p>
 
 <!-- Footer Wave -->
 <div align="center">
