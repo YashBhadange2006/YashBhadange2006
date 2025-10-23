@@ -16,6 +16,7 @@
 </div>
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
+
 ```javascript
 class Developer {
   constructor() {
@@ -37,13 +38,13 @@ class Developer {
   }
 
   isOpenToCollaboration() {
-    return this.project.solves === "real problems" 
-           && this.project.users === "actual humans";
+    return true; // only if the project solves real problems 🙂
   }
 }
-```
+
 
 <br clear="right"/>
+```
 
 <div align="center">
 
