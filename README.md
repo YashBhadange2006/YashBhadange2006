@@ -93,11 +93,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=10&card_width=495&hide=Jupyter%20Notebook" height="200" alt="Top Languages" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashBhadange2006&theme=tokyonight&utcOffset=5.5">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashBhadange2006&theme=tokyonight&utcOffset=5.5" height="200" alt="Productive Time" />
-</picture>
-
 </div>
 
 <br>
