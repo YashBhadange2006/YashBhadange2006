@@ -17,46 +17,48 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
 
-```yash@developer:~$ whoami
-Yash Bhadange | Android Developer + AI Enthusiast
-yash@developer:~$ ls skills/
-mobile/          ai-integration/          osint-tools/
-kotlin/          jetpack-compose/         firebase/
-yash@developer:~$ cat current_projects.txt
-📱 Geolocation tools that actually work
-🔍 Reverse image search for mobile
-🤖 AI integration in everyday Android apps
-yash@developer:~$ echo $PHILOSOPHY
-"The best apps are invisible—users shouldn't think
-about the tech, just get what they need and move on."
-yash@developer:~$ cat learning_now.log
-[INFO] Kotlin + Jetpack Compose
-[INFO] Room Database architecture
-[INFO] Spring Boot backend
-[INFO] Python AI integrations
-yash@developer:~$ ./check_collaboration.sh
-✓ Solving real-world problems? YES
-✓ Building for actual humans? YES
-✓ Status: Open to collaborate
-yash@developer:~$ fortune
-"If users need a manual, I haven't finished building it yet."
-yash@developer:~$ _
+```Java
+private final String name = "Yash Bhadange";
+private final String focus = "Android + AI";
+private final String philosophy = "The best apps are invisible";
 
-<br clear="right"/>
+public YashBhadange() {
+    super("Mobile Development", "AI Integration", "OSINT Tools");
+}
+
+@Override
+public List<String> getCurrentProjects() {
+    return Arrays.asList(
+        "🗺️ Fine Tuning AI models",
+        "🔍 Security Apps",
+        "🤖 AI integration in  Android apps"
+    );
+}
+
+@Override
+public String getPhilosophy() {
+    return "If users need a manual, I haven't finished building it yet.";
+}
+
+public Map<String, List<String>> getLearningPath() {
+    Map<String, List<String>> learning = new HashMap<>();
+    learning.put("Mobile", Arrays.asList("Kotlin", "Jetpack Compose", "MVVM"));
+    learning.put("Backend", Arrays.asList("Spring Boot"));
+    learning.put("AI/ML", Arrays.asList("Python AI"));
+    return learning;
+}
+
+public boolean isOpenToCollaborate(Project project) {
+    return project.solvesRealProblems() 
+        && project.hasActualUsers()
+        && project.makesPeoplesLivesEasier();
+}
+
+public static void main(String[] args) {
+    YashBhadange dev = new YashBhadange();
+    System.out.println("👋 Ready to build something awesome!");
+}
 ```
-
-<div align="center">
-
-### 🎯 What I'm Actually Learning
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Room%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
