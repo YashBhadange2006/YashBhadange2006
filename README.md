@@ -15,7 +15,8 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
+<div style="overflow-x: auto;">
 
 ```Java
 private final String name = "Yash Bhadange";
@@ -59,6 +60,8 @@ public static void main(String[] args) {
     System.out.println("👋 Ready to build something awesome!");
 }
 ```
+
+</div>
 ---
 
 ## 🛠️ Tech Stack & Tools
