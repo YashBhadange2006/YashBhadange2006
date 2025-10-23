@@ -26,23 +26,33 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
+### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,firebase,git,github,linux,javascript,html,css,bootstrap,mysql,sqlte,git,figma,visualstudio" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="48" />
 </p>
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" height="48" />
 </p>
+
+### 🎨 Frontend & UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="48" />
+</p>
+
+### 🗄 Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" height="48" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="48" />
+</p>
+
 
 ---
 
@@ -62,10 +72,20 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
+  <a href="YOUR_LINKEDIN_HERE">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://skillicons.dev/icons?i=web" height="48"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+  </a>
 </p>
+
 
 ---
 
