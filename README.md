@@ -11,7 +11,7 @@
 
 <h1 align="center">
 💭 About Me 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding Cat"/>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Coding Cat"/>
 </h1>
 
 <div style="overflow-x: auto;">
