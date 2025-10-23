@@ -99,15 +99,30 @@ public static void main(String[] args) {
 
 <div align="center">
 
+## 📊 GitHub Analytics
+
+<div align="center">
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Performance+Metrics+%F0%9F%9A%80;Code+Statistics+%F0%9F%93%88;Contribution+Analytics+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+
 ### 🎯 **Core Statistics**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&border_radius=12&include_all_commits=true&count_private=true&card_width=495">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&border_radius=12&include_all_commits=true&count_private=true&card_width=495" height="200" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&border_radius=12&include_all_commits=true&count_private=true&card_width=400">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&border_radius=12&include_all_commits=true&count_private=true&card_width=400" height="165" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=495">
-  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=495" height="200" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=400">
+  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=400" height="165" alt="GitHub Streak" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=6&card_width=400&hide=Jupyter%20Notebook">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=6&card_width=400&hide=Jupyter%20Notebook" height="165" alt="Top Languages" />
 </picture>
 
 </div>
@@ -119,22 +134,10 @@ public static void main(String[] args) {
 ### 📈 **Contribution Graph**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=320">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=320" width="98%" alt="Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=250">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=250" width="98%" alt="Contribution Graph" />
 </picture>
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 **Language Distribution & Productivity**
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=8&card_width=400&hide=Jupyter%20Notebook">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=8&card_width=400&hide=Jupyter%20Notebook" height="180" alt="Top Languages" />
-</picture>
 </div>
 
 <br>
