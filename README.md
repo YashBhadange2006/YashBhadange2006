@@ -6,18 +6,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 ---
+
 <br>
+
 <div align="center">
-💻 About Me
+
+## 💭 About Me
+
 </div>
+
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
-```
-bash
-yash@developer:~$ whoami
+
+```yash@developer:~$ whoami
 Yash Bhadange | Android Developer + AI Enthusiast
 yash@developer:~$ ls skills/
-mobile/          ai-integration/          osint-tools/
-kotlin/          jetpack-compose/         firebase/
+mobile/          ai-integration/          osint-tools/
+kotlin/          jetpack-compose/         firebase/
 yash@developer:~$ cat current_projects.txt
 📱 Geolocation tools that actually work
 🔍 Reverse image search for mobile
@@ -39,10 +43,11 @@ yash@developer:~$ fortune
 yash@developer:~$ _
 
 <br clear="right"/>
+```
 
 <div align="center">
 
-### 🎯 Tech Stack
+### 🎯 What I'm Actually Learning
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
@@ -51,7 +56,6 @@ yash@developer:~$ _
 <img src="https://img.shields.io/badge/Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
-```
 
 ---
 
