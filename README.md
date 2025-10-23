@@ -8,9 +8,13 @@
 ---
 
 <br>
+
 <div align="center">
-💭 About Me
+
+## 💭 About Me
+
 </div>
+
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
 ```javascript
 class Developer {
@@ -19,21 +23,25 @@ class Developer {
     this.focus = "Android + AI";
     this.philosophy = "The best apps are invisible";
   }
-getCurrentProjects() {
-return [
-"🗺️ Geolocation tools that actually work",
-"🔍 Reverse image search for mobile",
-"🤖 Integrating AI into everyday Android apps"
-];
+
+  getCurrentProjects() {
+    return [
+      "🗺️ Geolocation tools that actually work",
+      "🔍 Reverse image search for mobile",
+      "🤖 Integrating AI into everyday Android apps"
+    ];
+  }
+
+  getApproach() {
+    return "If users need a manual, I haven't finished building it yet.";
+  }
+
+  isOpenToCollaboration() {
+    return this.project.solves === "real problems" 
+           && this.project.users === "actual humans";
+  }
 }
-getApproach() {
-return "If users need a manual, I haven't finished building it yet.";
-}
-isOpenToCollaboration() {
-return this.project.solves === "real problems"
-&& this.project.users === "actual humans";
-}
-}
+```
 
 <br clear="right"/>
 
@@ -59,6 +67,10 @@ return this.project.solves === "real problems"
 *Let's create something that makes people's day easier* 👇
 
 </div>
+
+<br>
+
+---
 
 <br>
 
