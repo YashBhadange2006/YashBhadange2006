@@ -6,49 +6,42 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 ---
-
 <br>
-
 <div align="center">
-
-## 💭 About Me
-
+💻 About Me
 </div>
-
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding Cat"/>
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Yash Bhadange";
-    this.focus = "Android + AI";
-    this.philosophy = "The best apps are invisible";
-  }
-
-  getCurrentProjects() {
-    return [
-      "🗺️ Geolocation tools that actually work",
-      "🔍 Reverse image search for mobile",
-      "🤖 Integrating AI into everyday Android apps"
-    ];
-  }
-
-  getApproach() {
-    return "If users need a manual, I haven't finished building it yet.";
-  }
-
-  isOpenToCollaboration() {
-    return true; // only if the project solves real problems 🙂
-  }
-}
-
+```bash
+yash@developer:~$ whoami
+Yash Bhadange | Android Developer + AI Enthusiast
+yash@developer:~$ ls skills/
+mobile/          ai-integration/          osint-tools/
+kotlin/          jetpack-compose/         firebase/
+yash@developer:~$ cat current_projects.txt
+📱 Geolocation tools that actually work
+🔍 Reverse image search for mobile
+🤖 AI integration in everyday Android apps
+yash@developer:~$ echo $PHILOSOPHY
+"The best apps are invisible—users shouldn't think
+about the tech, just get what they need and move on."
+yash@developer:~$ cat learning_now.log
+[INFO] Kotlin + Jetpack Compose
+[INFO] Room Database architecture
+[INFO] Spring Boot backend
+[INFO] Python AI integrations
+yash@developer:~$ ./check_collaboration.sh
+✓ Solving real-world problems? YES
+✓ Building for actual humans? YES
+✓ Status: Open to collaborate
+yash@developer:~$ fortune
+"If users need a manual, I haven't finished building it yet."
+yash@developer:~$ _
 
 <br clear="right"/>
-```
 
 <div align="center">
 
-### 🎯 What I'm Actually Learning
+### 🎯 Tech Stack
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
@@ -58,22 +51,7 @@ class Developer {
 
 </div>
 
----
 
-<div align="center">
-
-**Building tools for OSINT, mobile search, and location-based services.**  
-**Not interested in building features—interested in solving problems.**
-
-*Let's create something that makes people's day easier* 👇
-
-</div>
-
-<br>
-
----
-
-<br>
 ---
 
 ## 🛠️ Tech Stack & Tools
