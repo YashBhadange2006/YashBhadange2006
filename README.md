@@ -106,7 +106,6 @@ public static void main(String[] args) {
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=280">
-  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=280" height="170" alt="GitHub Streak" />
 </picture>
 
 </div>
