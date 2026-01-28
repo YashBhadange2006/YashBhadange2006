@@ -15,9 +15,6 @@
 
 </div>
 
-
-
-
 ```Java
 private final String name = "Yash Bhadange";
 private final String focus = "Android + AI";
@@ -142,22 +139,6 @@ public static void main(String[] args) {
 
 </div>
 
-<br>
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20hungry,%20stay%20foolish&author=Steve%20Jobs" alt="Quote"/>
-
-### ✨ *stay foolish* ✨
-
-</div>
-
-<br>
-
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,14,30&height=120&section=footer&animation=twinkling" width="100%"/>
@@ -165,7 +146,7 @@ public static void main(String[] args) {
 
 <div align="center">
   
-  **Thanks for visiting! Let's build something amazing together 🚀**
+  **Thanks for visiting! Let's build something amazing together**
   
   <img src="https://komarev.com/ghpvc/?username=YashBhadange2006&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
   
