@@ -96,6 +96,7 @@ public static void main(String[] args) {
 
 <div align="center">
 
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashBhadange2006)](https://github.com/YashBhadange2006/YashBhadange2006)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&border_radius=12&include_all_commits=true&count_private=true&card_width=280">
 </picture>
