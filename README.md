@@ -102,6 +102,11 @@ public static void main(String[] args) {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=6&card_width=280&hide=Jupyter%20Notebook">
 </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12&langs_count=6&card_width=280&hide=Jupyter%20Notebook" height="170" alt="Top Languages" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=280">
+  <img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=280" height="170" alt="GitHub Streak" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=A78BFA&border_radius=12&card_width=280">
 </picture>
@@ -114,6 +119,7 @@ public static void main(String[] args) {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=350">
+    
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashBhadange2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=350" width="98%" alt="Contribution Graph" />
 </picture>
 
