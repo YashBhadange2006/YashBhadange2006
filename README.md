@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Yash Bhadange</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZxeXN0dWl3ZmY3NzMyZjh0eTNtaXQ0a2J2MTExZzdmeXJrZjNleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/deSHAgmKsZXPpTUi0N/giphy.gif" height="30px" width="30px"> I'm Yash Bhadange</h1>
 <h3 align="center">Software Engineer | Android Developer | AI & OSINT Enthusiast 🚀</h3>
 
 
@@ -126,20 +126,6 @@ public static void main(String[] args) {
 </div>
 
 <br>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashBhadange2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhadange2006&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=YashBhadange2006&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
 
 ## 🤝 Connect With Me
 
