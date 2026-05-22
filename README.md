@@ -7,58 +7,6 @@
 
 ---
 
-<div align="center">
-
-## 💻 About Me
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding Cat"/>
-
-</div>
-
-```Java
-private final String name = "Yash Bhadange";
-private final String focus = "Android + AI";
-private final String philosophy = "The best apps are invisible";
-
-public YashBhadange() {
-    super("Mobile Development", "AI Integration", "OSINT Tools");
-}
-
-@Override
-public List<String> getCurrentProjects() {
-    return Arrays.asList(
-        "🗺️ Fine Tuning AI models",
-        "🔍 Security Apps",
-        "🤖 AI integration in  Android apps"
-    );
-}
-
-@Override
-public String getPhilosophy() {
-    return "If users need a manual, I haven't finished building it yet.";
-}
-
-public Map<String, List<String>> getLearningPath() {
-    Map<String, List<String>> learning = new HashMap<>();
-    learning.put("Mobile", Arrays.asList("Kotlin", "Jetpack Compose", "MVVM"));
-    learning.put("Backend", Arrays.asList("Spring Boot"));
-    learning.put("AI/ML", Arrays.asList("Python AI"));
-    return learning;
-}
-
-public boolean isOpenToCollaborate(Project project) {
-    return project.solvesRealProblems() 
-        && project.hasActualUsers()
-        && project.makesPeoplesLivesEasier();
-}
-
-public static void main(String[] args) {
-    YashBhadange dev = new YashBhadange();
-    System.out.println("👋 Ready to build something awesome!");
-}
-```
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
